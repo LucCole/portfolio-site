@@ -9,7 +9,7 @@ BOOTCAMP
 		Git: https://github.com/LucCole/fsa-fitness-tracker
 		Link: 	
 
-		strangers things
+		Strangers Things
 		Git: https://github.com/LucCole/fsa-strangers-things
 		Link: https://fsa-strangers-things-react.netlify.app
 
