@@ -1,0 +1,53 @@
+
+
+
+BOOTCAMP
+
+	React
+
+		Fitness Tracker
+		Git: https://github.com/LucCole/fsa-fitness-tracker
+		Link: 	
+
+		strangers things
+		Git: https://github.com/LucCole/fsa-strangers-things
+		Link: https://fsa-strangers-things-react.netlify.app
+
+		Capstone
+		Git: git@github.com:LucCole/fsa-capstone.git
+		Link: https://fsa-capstone.netlify.app
+
+		The art collector (react)
+		Git: https://github.com/LucCole/fsa-the-art-collector-react
+		Link: https://the-art-collector-react.netlify.app
+
+		Retro draw (react)		
+		Git: https://github.com/LucCole/fsa-retro-draw-react
+		Link: https://fs-retro-draw-react.netlify.app
+
+	jQuery
+
+		JS Arcade
+		Git: https://github.com/LucCole/fsa-js-arcade
+		Link: https://js-arcade.netlify.app/snake.html
+
+		The art collector
+		Git: https://github.com/LucCole/fsa-the-art-collector
+ 		Link: https://the-art-collector.netlify.app/
+
+		Calculator
+		Git: https://github.com/LucCole/fsa-calculator
+		Link: https://project-4-calculator.netlify.app/
+
+	javascript
+
+		Retro Draw 
+		Git: https://github.com/LucCole/fsa-retro-draw
+		Link: https://pixle-draw.netlify.app/
+
+	html
+
+		personal site project 
+		Git: https://github.com/LucCole/fsa-personal-site
+		Link: https://luc-cole.netlify.app/ 
+
