@@ -16,7 +16,7 @@ main{
 .projects{
   background-color: lightcoral;
   display: grid;
-  grid-template-columns: 1fr  1fr;
+  grid-template-columns: 1fr  1fr 1fr;
 }
 
 .project{
@@ -25,3 +25,61 @@ main{
   margin: 15px;
   padding: 10px;
 }
+
+.project header{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.project header h4{
+  margin: 3px;
+  font-size: 2em;
+  text-decoration: none;
+  color: black;
+  margin-bottom: 10px;
+}
+
+.project header h4 a{
+  text-decoration: none;
+  color: black;
+}
+
+.icon{
+  width: 30px;
+}
+
+.githubIcon{
+  width: 30px;
+  height: 30px;
+  background-image: url("images/github-logo.png"); 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.githubIcon:hover{
+  background-image: url("images/github-logo-purple.png"); 
+}
+
+.project img{
+  max-width: 100%;
+  max-height: 250px;
+}
+
+.project footer{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.project footer img{
+  margin: 0 5px;
+}
+
+#jsArcadeTitle:hover{
+  color: lime;
+}
+
+
