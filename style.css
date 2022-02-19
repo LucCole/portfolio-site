@@ -25,3 +25,13 @@ main{
   margin: 15px;
   padding: 10px;
 }
+
+.project header{
+  display: flex;
+  flex-direction: row;
+}
+
+.project img{
+  max-width: 100%;
+  max-height: 250px;
+}
