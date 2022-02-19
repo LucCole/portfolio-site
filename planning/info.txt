@@ -29,7 +29,7 @@ BOOTCAMP
 
 		JS Arcade
 		Git: https://github.com/LucCole/fsa-js-arcade
-		Link: https://js-arcade.netlify.app/snake.html
+		Link: https://js-arcade.netlify.app/index.html
 
 		The art collector
 		Git: https://github.com/LucCole/fsa-the-art-collector
