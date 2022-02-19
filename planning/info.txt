@@ -14,7 +14,7 @@ BOOTCAMP
 		Link: https://fsa-strangers-things-react.netlify.app
 
 		Capstone
-		Git: git@github.com:LucCole/fsa-capstone.git
+		Git: https://github.com/LucCole/fsa-capstone
 		Link: https://fsa-capstone.netlify.app
 
 		The art collector (react)
@@ -31,7 +31,7 @@ BOOTCAMP
 		Git: https://github.com/LucCole/fsa-js-arcade
 		Link: https://js-arcade.netlify.app/index.html
 
-		The art collector
+		The Art Collector
 		Git: https://github.com/LucCole/fsa-the-art-collector
  		Link: https://the-art-collector.netlify.app/
 
@@ -47,7 +47,7 @@ BOOTCAMP
 
 	html
 
-		personal site project 
+		Personal Site
 		Git: https://github.com/LucCole/fsa-personal-site
 		Link: https://luc-cole.netlify.app/ 
 
