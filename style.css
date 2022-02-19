@@ -46,9 +46,39 @@ main{
   color: black;
 }
 
+.project header div{
+  display: flex;
+  gap: 10%;
+}
+
+.project .buttonWrapper{
+  display: flex;
+  justify-content: center;
+}
+
+.project .buttonWrapper button{
+  width: 60%;
+  padding: 5px 10px;
+}
+
 .icon{
   width: 30px;
 }
+
+.netlifyIcon{
+  width: 30px;
+  height: 30px;
+  background-image: url("images/netlify.svg"); 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.netlifyIcon:hover{
+  background-image: url("images/netlify-blue.png"); 
+}
+
+
 
 .githubIcon{
   width: 30px;
@@ -82,4 +112,50 @@ main{
   color: lime;
 }
 
+.modal{
+  max-width: 70%;
+  background-color: whitesmoke;
+  margin: 10% auto; /* 15% from the top and centered */
+  padding: 20px;
+  border: 1px solid rgb(104, 104, 104);
 
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1%;
+}
+
+.modal header{
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+.modal header h3{
+  margin: 0;
+  font-size: 2em;
+}
+
+.modalBackground{
+  /* HHHHHHHHHHHHHHHHHHHHHHHHHH */
+  display: none;
+  position: fixed;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.videoWrapper {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  height: 0;
+}
+
+.videoWrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
